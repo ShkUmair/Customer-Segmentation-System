@@ -33,3 +33,5 @@ We need to identify why does the Green Cluster doesn't want to spend money on ou
   # Conclusion  
 Thank you for reading my Second Project Repository in Github!  I'm still new to 
  Data Science Industry so I would like to apologize if there are any mistakes that I have made in my coding in notebook. I have recently completed my Data Science Training in Udemy and I really want to apply my knowledge with my Marketing Degree and Data Science in order to have good Insights and expand my career to other Business Cases.
+
+ #Demo
